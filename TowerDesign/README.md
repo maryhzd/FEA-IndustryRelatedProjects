@@ -1,4 +1,4 @@
-# Tower Design Analysis by Maryam Hakimzadeh
+# Tower Design Analysis
 
 ## Overview
 This project focuses on designing a tower capable of supporting a specific dead mass at its apex. The design constraints require the tower to be constructed solely from beam members, accommodating a mass of 36,000 kg at a height of 20 meters. The tower must also withstand its own weight and a specified wind load, ensuring structural integrity and safety.
@@ -39,6 +39,6 @@ This project focuses on designing a tower capable of supporting a specific dead 
 - Beams with two cross sections are used.
 
 ## Conclusions
-The analysis validates the tower's structural integrity, meeting the specified design objectives and safety requirements.
+The analysis validates the tower's structural integrity, meeting the specified design objectives and safety requirements, albeit with a small sacrifice in the safety factor.
 
 
